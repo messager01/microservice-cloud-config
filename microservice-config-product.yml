@@ -70,6 +70,6 @@ eureka:
   instance:
     instanceId: ${spring.application.name}:${server.port}
     prefer-ip-address: true
- emp:
+emp:
    name: 史沛鑫
 
