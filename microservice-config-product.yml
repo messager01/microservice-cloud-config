@@ -71,5 +71,5 @@ eureka:
     instanceId: ${spring.application.name}:${server.port}
     prefer-ip-address: true
 emp:
-   name: 史沛鑫
+   name: RabbitMQ
 
