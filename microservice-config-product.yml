@@ -35,6 +35,8 @@ eureka:
     instanceId: ${spring.application.name}:${server.port}
     prefer-ip-address: true 
 ---
+emp:
+  name: shipeixin
 server:
   port: 8001
 mybatis:
@@ -66,5 +68,3 @@ eureka:
   instance:
     instanceId: ${spring.application.name}:${server.port}
     prefer-ip-address: true 
-emp:
-  name: shipeixin
