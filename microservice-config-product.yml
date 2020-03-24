@@ -36,7 +36,7 @@ eureka:
     prefer-ip-address: true 
 ---
 emp:
-  name: lulu
+  name: luluer
 server:
   port: 8001
 mybatis:
